@@ -45,7 +45,7 @@
 
 
 #### Home feed | Seen/Unseen Story
-|  <img src="https://user-images.githubusercontent.com/60619133/95440424-907f8800-0976-11eb-9ead-b455529884f5.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440399-89587a00-0976-11eb-8e6f-ac27f8528b2e.jpg" alt="feed example" width = "220">|
+|  <img src="https://user-images.githubusercontent.com/60619133/95440424-907f8800-0976-11eb-9ead-b455529884f5.jpg" alt="feed example" width = "220">|
 
 #### Comment | Post Photo | Notification Panel
 |![Comment](comment.gif) |<img src="https://user-images.githubusercontent.com/60619133/95440445-94aba580-0976-11eb-9bab-c4fb3b66c915.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440403-8b223d80-0976-11eb-86ee-5b395df5009e.jpg" alt="feed example" width = "220">
