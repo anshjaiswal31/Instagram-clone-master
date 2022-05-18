@@ -92,7 +92,3 @@ Show your support by 🌟 the project!!
 * Create new Pull Request
 
 Feel free to contribute!
-
-
-## License
-InstagramClone is available under the [MIT License](LICENSE), see LICENSE for more infomation.
